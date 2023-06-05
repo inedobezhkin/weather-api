@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+*.sqlite
+*.log
+*.sqlite-journal
+__init__.py

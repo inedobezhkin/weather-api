@@ -1,0 +1,1 @@
+0 10 * * * python parse.py >> /tmp/out.log 2>/tmp/err.log
